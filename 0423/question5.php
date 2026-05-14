@@ -10,7 +10,6 @@ foreach ($b as $key => $fruits) {
     echo $key . "：" . $fruits . "円" . "<br>";
 }
 # 3. [100, 200, 300] という配列の合計値を求めて表示してください（foreach を使って）。
-//わからなかった
 $numbers = [100, 200, 300];
 $sum = 0;
 foreach ($numbers as $number) {
