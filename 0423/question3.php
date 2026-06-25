@@ -30,7 +30,6 @@ if ($x < 10) {
     <input type="submit" value="送信">
     <?php
     $input = "secret";
-    $input = $_POST["pass"];
     $password = "secret";
 
     if ($input === $password) {
